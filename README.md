@@ -4,3 +4,7 @@ Teste de PO Fabrica de software
 
 LINK PARA O TRELLO
 https://trello.com/invite/b/6a91a1294894a1504c91855e/ATTI5e546bd4943bc5d9a4cbe643e91a06062B0BF8F8/sistema-de-gerenciamento-de-faturamento-e-emissao-com-cobranca-de-boletos-e-debitos
+
+
+link para o documento de visão 
+https://docs.google.com/document/d/1xriEBD2PNakCN6vClyjslvR1Un6rvBlM/edit?usp=sharing&ouid=115591181149089061424&rtpof=true&sd=true
